@@ -1,4 +1,4 @@
-# Telegram Chat to Markdown Converter
+# Telegram Chat to Markdown Converter (AI Generated)
 
 Convert your exported Telegram chat history (JSON format) into a beautifully formatted, readable Markdown document.
 
@@ -112,8 +112,3 @@ Hey Alice! Welcome!
 
 ---
 ```
-
-## License
-
-MIT License - feel free to use and modify as needed.
-
